@@ -23,7 +23,7 @@ Our project uses NASA datasets, including:
 
 ## Use of AI
 
-We used AI tools throughout development to help us learn unfamiliar software, understand NASA datasets, solve coding problems, and bring our ideas to life. AI helped guide our development, but our team made the decisions about the project's design and direction.
+We built the project in Unity and consulted AI to give us guidance on how to resolve any issues that we would encounter during the app-creation process.
 
 ## Tools Used
 
